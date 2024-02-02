@@ -50,7 +50,8 @@
     {
       "name": "Criando na DIO  uma Pokedex",
       "url": "https://github.com/Mendeslima2511/js-developer-pokedex",
-      "certificate":"https://www.dio.me/certificate/95850629/share"
+      "certificate":"https://www.dio.me/certificate/95850629/share",
+      "github": true
     },
     {
       "name": "Criando na DIO  uma página de portfolio",

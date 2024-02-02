@@ -46,6 +46,27 @@
     "Inglês (Básico)",
     "Espanhol (Básico)"
   ],
+  "education":{
+    "hardEducation":[
+      {
+        "name": "Javascript Developer",
+        "logo": "https://hermes.dio.me/tracks/55e7040f-775b-47e5-a8fb-69d002ca17a9.png"
+      }
+    ],
+    "softEducation":[
+      {
+        "name": "Dio.me",
+        "description": "Javascript Developer"
+      },
+      {
+        "name": "Wyden unimetrocamp - Análise e desenvolvimento de sistemas",
+        "period": "Campinas - 2023"
+      }
+
+    ]
+  }
+
+  ,
   "portifolio": [
     {
       "github": true,
